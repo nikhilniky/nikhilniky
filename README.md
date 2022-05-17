@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @nikhilniky
+- 👋 Hi, I’m @nikhilrenikunta
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nikhilniky/nikhilniky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 Interned at OYO, F grade global, and Cleared in hacker rank coding contests.
 Working knowledge on CI/CD- tools ,Agile methodology.
 
