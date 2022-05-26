@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikhilrenikunta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java development
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on JAVA
 Interned at OYO, F grade global, and Cleared in hacker rank coding contests.
 Working knowledge on CI/CD- tools ,Agile methodology.
 
