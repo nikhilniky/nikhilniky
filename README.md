@@ -2,6 +2,7 @@
 - 👀 I’m interested in Java development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on JAVA
+- Currently working as Fullstack java developer in productbase company
 Interned at OYO, F grade global, and Cleared in hacker rank coding contests.
 Working knowledge on CI/CD- tools ,Agile methodology.
 
