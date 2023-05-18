@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on JAVA
 - Currently working as Fullstack java developer in productbase company
-Interned at OYO, F grade global, and Cleared in hacker rank coding contests.
+- Interned at OYO, F grade global, and Cleared in hacker rank coding contests.
+
 Working knowledge on CI/CD- tools ,Agile methodology.
 
 Experience in IT industry in analyzing, developing application using Java/J2EE related technologies and REST Web Services.
