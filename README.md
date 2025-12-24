@@ -1,37 +1,112 @@
-- 👋 Hi, I’m @nikhilrenikunta
-- 👀 I’m interested in Java development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on JAVA
-- Currently working as Fullstack java developer in productbase company
-- Interned at OYO, F grade global, and Cleared in hacker rank coding contests.
+# 👋 Hi, I'm Nikhil Renikunta
 
-Working knowledge on CI/CD- tools ,Agile methodology.
+🚀 Full-Stack Java Developer | Backend Engineer | Salesforce + REST APIs  
+📍 India
 
-Experience in IT industry in analyzing, developing application using Java/J2EE related technologies and REST Web Services.
+I’m a **Full-Stack Java Developer** working in a **product-based company**, with strong experience in building scalable backend systems, REST APIs, and user-facing applications. I enjoy solving real-world engineering problems, improving system reliability, and collaborating across teams to deliver impactful solutions.
 
-• Experience in use of Object Oriented Programming in Java.
-• Experience in developing applications on tools like Eclipse, Intellij.
-• Experience in web application development using – Spring MVC ,Spring Boot, REST Web Services, HTML,JSP, Hibernate.
-• Highly committed individual with proven ability to learn fast and work well under pressure.
-• Strong debugging and problem solving skills with excellent understanding of systems development methodologies, techniques and tools.
-• Successful discussions with clients in providing them alternative solutions for a given problem.
-• Discussion and helping team members in technical aspects.
-• Working experience in Scrum teams.
-•  Basic knowledge of XML and JSON and Angular.
-• Source Control Management systems (i.e., SVN, Git).
+---
 
-Frameworks and technology : Spring, REST Web services, HTML,  JSP, JQuery.
+## 👀 Interests
+- Backend & Full-Stack **Java Development**
+- **Spring Boot** microservices
+- **REST API design & performance optimization**
+- Clean code, scalability, and reliability
+- **Data Structures & Algorithms (DSA)**
+- System design fundamentals
 
-ORM : Hibernate
+---
 
-Tools : Eclipse IDE, Intellij IDE , Web logic.
+## 🌱 Currently Learning
+- Advanced **DSA** for problem-solving and interviews
+- **System Design** for scalable applications
+- Improving architectural and design decision-making skills
 
-Version Control Tools : Git, SVN
+---
 
-Database : MySQL
+## 💼 Professional Experience
+- **Full-Stack Java Developer** at a **product-based organization**
+- Experience in analyzing, designing, and developing applications using **Java/J2EE**
+- Strong hands-on experience with **RESTful Web Services**
+- Worked in **Agile / Scrum teams**, contributing to sprint planning, code reviews, and releases
+- Comfortable collaborating with cross-functional teams and stakeholders
 
-Operating Systems : Windows, Linux
+---
 
-Languages : Java, C 
+## 🏆 Highlights
+- Interned at **OYO**, **Fgrade Global Services**, and other organizations
+- Cleared **HackerRank coding contests**
+- Known for strong debugging skills and quick root-cause analysis
+- Regularly help teammates with technical problem-solving
+- Experience discussing alternative solutions with clients and stakeholders
 
-Please Go through the profile to know more about me.
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- Java  
+- C  
+- Basic knowledge: JavaScript, Angular
+
+### **Backend & Frameworks**
+- Spring  
+- Spring Boot  
+- Spring MVC  
+- REST Web Services  
+- Hibernate (ORM)
+
+### **Frontend**
+- HTML  
+- JSP  
+- jQuery  
+- Basic Angular
+
+### **Databases**
+- MySQL
+
+### **Tools & IDEs**
+- IntelliJ IDEA  
+- Eclipse  
+- WebLogic
+
+### **DevOps & Methodologies**
+- CI/CD tools (working knowledge)
+- Agile / Scrum methodology
+
+### **Version Control**
+- Git  
+- SVN
+
+### **Data Formats**
+- JSON  
+- XML
+
+### **Operating Systems**
+- Windows  
+- Linux
+
+---
+
+## 💪 Strengths
+- Strong **Object-Oriented Programming (OOP)** fundamentals
+- Excellent **debugging and problem-solving** skills
+- Quick learner with the ability to work well under pressure
+- Collaborative team player with a strong ownership mindset
+
+---
+
+## 🤝 Looking to Collaborate On
+- Java / Spring Boot projects
+- Backend systems and REST APIs
+- Performance optimization and clean architecture
+- Learning-focused engineering initiatives
+
+---
+
+## 📫 Get in Touch
+- GitHub: [@nikhilrenikunta](https://github.com/nikhilrenikunta)
+
+---
+
+⭐ *Feel free to explore my repositories to learn more about my work and interests.*
